@@ -24,7 +24,9 @@ For this project, you can gather datasets using web scraping 🕸️ or use a pr
 
 ### 🌐 Web Scraping
 
-You can scrape images of traditional Indian paintings using the provided web scraping script 🖼️. This script collects images from various search engines, including Google, Bing, Baidu, and Flickr. 
+You can scrape images of traditional Indian paintings using the provided web scraping script 🖼️. This script collects images from various search engines, including Google, Bing, Baidu, and Flickr.Use this Colab notebook for web scraping: 
+
+🔗 [Colab Link](https://colab.research.google.com/drive/1psNPQo0IsFfvyMj8LQSodzFL7TDSOfsh?usp=sharing)
 
 ### ✅ Using a Clean Dataset
 
