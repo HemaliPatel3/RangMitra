@@ -16,3 +16,21 @@
 🖌 Pichwai Painting – An intricate temple art form from Rajasthan, known for its detailed depictions of Lord Krishna, lotus motifs, and vibrant compositions.
 
 🖌 Warli Art – A tribal art style from Maharashtra, recognized for its minimalistic monochrome stick figures, geometric patterns, and depictions of rural life.
+
+
+# 📂 Dataset
+
+For this project, you can gather datasets using web scraping 🕸️ or use a pre-cleaned dataset from a reliable source 📜.
+
+### 🌐 Web Scraping
+
+You can scrape images of traditional Indian paintings using the provided web scraping script 🖼️. This script collects images from various search engines, including Google, Bing, Baidu, and Flickr. 
+
+### ✅ Using a Clean Dataset
+
+For convenience, you may use a pre-cleaned dataset instead of scraping 🧹. In this project, we have used a pre-cleaned dataset with proper licensing 📄. You can access and use the dataset from Kaggle at the following link:
+
+🔗 [Kaggle Dataset](https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset)
+
+
+
