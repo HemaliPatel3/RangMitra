@@ -28,7 +28,7 @@ You can scrape images of traditional Indian paintings using the provided web scr
 
 ### ✅ Using a Clean Dataset
 
-For convenience, you may use a pre-cleaned dataset instead of scraping 🧹. In this project, we have used a pre-cleaned dataset with proper licensing 📄. You can access and use the dataset from Kaggle at the following link:
+For convenience, you may use a pre-cleaned dataset instead of scraping 🧹. In this project, i have used a pre-cleaned dataset with proper licensing 📄. You can access and use the dataset from Kaggle at the following link:
 
 🔗 [Kaggle Dataset](https://www.kaggle.com/datasets/ajg117/indian-paintings-dataset)
 
